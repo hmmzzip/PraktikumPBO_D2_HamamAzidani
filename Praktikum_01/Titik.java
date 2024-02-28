@@ -10,7 +10,7 @@ public class Titik {
 	float ordinat;
 	static int counterTitik;
 
-	Titik(){
+	public Titik(){
 		absis = 0;
 		ordinat = 0;
 		counterTitik++;
@@ -22,29 +22,30 @@ public class Titik {
     //     counterTitik++;
     // }
 
-    Titik(float a, float o){
+    public Titik(float a, float o){
         absis = a;
         ordinat = o;
         counterTitik++;
     }
 
-	void setAbsis(float a){
+	public void setAbsis(float a){
 		absis = a;
 	}
 	
-	void setOrdinat(float o){
+	public void setOrdinat(float o){
 		ordinat = o;
 	}
 
-	float getAbsis(){
+	public float getAbsis(){
 		return absis;
 	}
 
-	float getOrdinat(){
+	public float getOrdinat(){
 		return ordinat;
 	}
 
-	static int getCounterTitik(){
+	public static int getCounterTitik(){
 		return counterTitik;
 	}
+	
 }
