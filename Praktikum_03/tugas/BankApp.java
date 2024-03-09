@@ -1,3 +1,10 @@
+/*
+Nama : Hamam Azidani
+NIM : 24060122130099
+File: BankApp.java
+Deskripsi: Program untuk Bank App
+*/
+
 public class BankApp {
     public static void main(String[] args) {
         BankAccount account = new BankAccount(500.0);

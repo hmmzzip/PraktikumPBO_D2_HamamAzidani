@@ -1,3 +1,10 @@
+/*
+Nama : Hamam Azidani
+NIM : 24060122130099
+File: UserInputValidator.java
+Deskripsi: Program untuk User Input Validator
+*/
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

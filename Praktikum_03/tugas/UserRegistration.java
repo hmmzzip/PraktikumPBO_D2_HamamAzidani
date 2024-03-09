@@ -1,3 +1,10 @@
+/*
+Nama : Hamam Azidani
+NIM : 24060122130099
+File: UserRegistration.java
+Deskripsi: Program untuk User Registration
+*/
+
 import java.util.Scanner;
 
 public class UserRegistration {

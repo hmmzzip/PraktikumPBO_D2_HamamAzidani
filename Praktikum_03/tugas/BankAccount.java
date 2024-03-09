@@ -1,3 +1,10 @@
+/*
+Nama : Hamam Azidani
+NIM : 24060122130099
+File: BankAccount.java
+Deskripsi: Program untuk Bank Account
+*/
+
 public class BankAccount {
     private double balance;
     private final double MIN_BALANCE = 100.0; // Saldo minimal
