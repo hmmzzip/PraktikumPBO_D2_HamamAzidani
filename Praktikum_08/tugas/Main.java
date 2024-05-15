@@ -1,7 +1,7 @@
 /* 
 * File      : Main.java    10/05/24
 * Penulis   : Hamam Azidani
-* Deskripsi : File kelas Main
+* Deskripsi : File kelas untuk program Main
 */
 
 public class Main {
