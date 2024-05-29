@@ -1,8 +1,9 @@
 import java.util.ArrayList;
 
 /*
- * File: Lambdalist.java
- * Deskripsi: Implementasi lambda pada List, digunakan sebagai parameter pada method.
+ * File     : LambdaList.java     29/05/24
+ * Penulis  : Hamam Azidani
+ * Deskripsi: Implementasi lambda pada List, digunakan sebagai parameter pada method
  */
 
 public class LambdaList{

@@ -1,5 +1,8 @@
-/*File DiskonLambda.java
-Deskripsi: Ekspresi lambda dasar, digunakan untuk menghitung diskon*/
+/*
+ * File     : DiskonLambda.java     29/05/24
+ * Penulis  : Hamam Azidani
+ * Deskripsi: Ekspresi lambda dasar, digunakan untuk menghitung diskon
+ */
 
 interface IDiskon{
     public double hitungDiskon (int harga);

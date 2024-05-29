@@ -2,8 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*
- * File: LambdaMap.java
- * Deskripsi: Implementasi lambda pada Map, digunakan untuk menampilkan key dan value.
+ * File     : LambdaMap.java     29/05/24
+ * Penulis  : Hamam Azidani
+ * Deskripsi: Implementasi lambda pada Map, digunakan untuk menampilkan key dan value
  */
 
 public class LambdaMap {
